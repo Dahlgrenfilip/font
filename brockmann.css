@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Brockmann";
+  src: url("https://cdn.prod.website-files.com/66f305cd71d2728b6bf6355e/681dc431ec9c2ebd6c0c1d64_Brockmann-Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Brockmann";
+  src: url("https://cdn.prod.website-files.com/66f305cd71d2728b6bf6355e/681dc43116b1e2e6be11b92b_Brockmann-Medium.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Brockmann";
+  src: url("https://cdn.prod.website-files.com/66f305cd71d2728b6bf6355e/681cfe89c1e911d7e38be0e7_Brockmann-Bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
